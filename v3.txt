@@ -1,9 +1,5 @@
 123
 m34 for master
 
-<<<<<<< HEAD
-
 adaugat de master
-=======
 adaugari de m34
->>>>>>> m34
